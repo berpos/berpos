@@ -16,6 +16,7 @@ Subsequent to finishing University, I returned to Portugal and realized that my 
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+  <img align="center" alt="Sass" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg">
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vuejs" height="40" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
